@@ -1,7 +1,7 @@
-package com.example.deid.Controller;
+package com.example.deid.Controler;
 
 import com.example.deid.model.Expense;
-import com.example.deid.service.ExpenseService;
+import com.example.deid.Services.ExpenseService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

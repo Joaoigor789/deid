@@ -1,7 +1,7 @@
-package com.example.deid.service;
+package com.example.deid.Services;
 
 import com.example.deid.model.Expense;
-import com.example.deid.repository.ExpenseRepository;
+import com.example.deid.Repository.ExpenseRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
